@@ -20,7 +20,7 @@
   display: inline-block;
   font-size: 19px;
   text-transform: uppercase;
-  color: #FF0500; }
+  color: blue; }
 
 .strike > span:before,
 .strike > span:after {
